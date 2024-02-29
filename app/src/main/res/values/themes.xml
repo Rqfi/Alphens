@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Alphens" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">#797979</item>
+        <item name="colorPrimaryVariant">#555555</item>
+        <item name="android:statusBarColor">#2B2B2B</item>
+    </style>
+
+    <style name="Theme.Alphens" parent="Base.Theme.Alphens" />
+</resources>

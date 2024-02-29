@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1034715770592",
+    "project_id": "alphens-notes",
+    "storage_bucket": "alphens-notes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034715770592:android:4aad8ee1138827e418ea85",
+        "android_client_info": {
+          "package_name": "com.example.alphens"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaFuQOU_9ABaPconS8Tuwn-PcnRm0mwcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
